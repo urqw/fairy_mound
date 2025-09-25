@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>2124E72EE00E30297CE506CCC2CB152F</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Холм фей</title>
+			<author>Belial</author>
+			<language>ru</language>
+			<firstpublished>2006-06-05</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Что нужно простому крестьянину, чтобы быть счастливым? Лишь бы хлеб уродился, да лето было не сухим и не холодным, чтоб птицы пели в роще за пашней, вереск на дальнем поле наполнял бы воздух дурманящим ароматом, да зрела медовуха, дожидаясь Праздника Урожая.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#fairy_mound</url>
+			<authoremail>belgame@bk.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
