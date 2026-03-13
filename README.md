@@ -4,7 +4,7 @@ Text-based game "Fairy Mound" (Russian: "Холм фей") by Belial.
 
 The game is in Russian, developed for RipURQ, URQ_DOS and AkURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#fairy_mound).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=fairy_mound).
 
 The game was first published on June 5, 2006.
 
